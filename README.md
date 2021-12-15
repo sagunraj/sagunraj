@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 - [Getting Started with WidgetKit (2021)](https://link.springer.com/book/10.1007/978-1-4842-7042-4)
 
 ### Blog Posts
-<!-- BLOG-POST-LIST:START -->
 - [How to Send Push Notifications to the iOS Simulator](https://betterprogramming.pub/how-to-send-push-notifications-to-the-ios-simulator-2988092ba931)
 - [Writing Your First Widget for iOS](https://levelup.gitconnected.com/writing-your-first-widget-for-ios-e1e8acf0079)
 - [Working With SwiftUI Lists Features for iOS 15](https://betterprogramming.pub/swiftui-lists-after-wwdc21-a8e5184e23b3)
@@ -36,7 +35,6 @@ Here are some ideas to get you started:
 - [Implementing Sign in with Apple Using Django (Part 1)](https://betterprogramming.pub/implementing-sign-in-with-apple-using-django-a-recipe-part-1-of-3-fc5695e6e9db)
 - [Implementing Sign in with Apple Using Django (Part 2)](https://betterprogramming.pub/implementing-sign-in-with-apple-using-django-a-recipe-part-2-of-3-12d673cf6eaf)
 - [Implementing Sign in with Apple Using Django (Part 3)](https://betterprogramming.pub/implementing-sign-in-with-apple-using-django-a-recipe-part-3-of-3-12d66947d4f5)
-<!-- BLOG-POST-LIST:END -->
 
 ### Let's Get Connected
 <p align="left">
