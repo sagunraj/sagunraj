@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Namaste, I'm Sagun Raj Lage!</h1>
-<h3 align="center">An iOS Developer, a Full Stack Web Developer, an author of a published book</h3>
+<h3 align="center">An iOS Developer, a Full Stack Web Developer, an author of a published book.</h3>
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/sagunraj).
 
