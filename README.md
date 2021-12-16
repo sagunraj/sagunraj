@@ -14,15 +14,15 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Namaste, I'm Sagun Raj Lage!</h1>
-<h3 align="center">An iOS Developer, a Full Stack Web Developer, an author of a published book.</h3>
+<h3 align="center">An iOS Developer, a Full Stack Web Developer, an author of <a href="https://www.amazon.com/Getting-Started-WidgetKit-Create-Widgets/dp/148427041X" target="_blank">a published book</a>.</h3>
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/sagunraj).
+- 👨‍💻 &nbsp; All of my projects are available at [Github](https://github.com/sagunraj).
 
-- 📝 I regularly write articles on [Medium](https://sagunraj.medium.com)
+- 📝 &nbsp; I regularly write articles on [Medium](https://sagunraj.medium.com).
 
-- 💬 Ask me about **Blogging, Swift (iOS), PHP (Laravel) and JavaScript (React)**
+- 💬 &nbsp; Ask me about **Blogging, Swift (iOS), PHP (Laravel) and JavaScript (React)**.
 
-- 📫 How to reach me **sagoonraj@gmail.com**
+- 📫 &nbsp; Reach me at **sagoonraj@gmail.com**.
 
 ### My Book
 - [Getting Started with WidgetKit (2021)](https://link.springer.com/book/10.1007/978-1-4842-7042-4)
@@ -38,10 +38,10 @@ Here are some ideas to get you started:
 
 ### Let's Get Connected
 <p align="left">
-<a href="https://twitter.com/sagunraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sagun_raj_lage_twitter" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sagunraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagun_raj_lage_linkedin" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/7552217/sagun-raj-lage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sagun_raj_lage_stackoverflow" height="30" width="40" /></a>
-<a href="https://sagunraj.medium.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="sagun_raj_lage_medium" height="30" width="40" /></a>
+<a href="https://twitter.com/sagunraj" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sagun_raj_lage_twitter" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sagunraj" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagun_raj_lage_linkedin" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/7552217/sagun-raj-lage" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sagun_raj_lage_stackoverflow" height="30" width="40" /></a>
+<a href="https://sagunraj.medium.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="sagun_raj_lage_medium" height="30" width="40" /></a>
 </p>
 
 ### Languages and Tools
