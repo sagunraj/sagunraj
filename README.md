@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Namaste, I'm Sagun Raj Lage!</h1>
 <h3 align="center">An iOS Developer, a Full Stack Web Developer, an author of <a href="https://www.amazon.com/Getting-Started-WidgetKit-Create-Widgets/dp/148427041X" target="_blank">a published book</a>.</h3>
 
-- 👨‍💻 &nbsp; All of my projects are available on [Github](https://github.com/sagunraj).
+- 👨‍💻 &nbsp; Almost all of my projects are available on [Github](https://github.com/sagunraj).
 
 - 📝 &nbsp; I regularly write articles on [Medium](https://sagunraj.medium.com).
 
