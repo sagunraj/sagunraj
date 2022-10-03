@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 - [Getting Started with WidgetKit (2021)](https://link.springer.com/book/10.1007/978-1-4842-7042-4)
 
 ### Blog Posts
+- [How to Generate GIFs From Videos on macOS](https://medium.com/@sagunraj/how-to-generate-gifs-from-videos-on-macos-b3780d2ef5c)
 - [How to Send Push Notifications to the iOS Simulator](https://betterprogramming.pub/how-to-send-push-notifications-to-the-ios-simulator-2988092ba931)
 - [Writing Your First Widget for iOS](https://levelup.gitconnected.com/writing-your-first-widget-for-ios-e1e8acf0079)
 - [Working With SwiftUI Lists Features for iOS 15](https://betterprogramming.pub/swiftui-lists-after-wwdc21-a8e5184e23b3)
