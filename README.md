@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 - [Getting Started with WidgetKit (2021)](https://link.springer.com/book/10.1007/978-1-4842-7042-4)
 
 ### Blog Posts
+- [A Not-So-Deep Introduction to Deep Learning](https://medium.com/@sagunraj/a-not-so-deep-introduction-to-deep-learning-6a53da637262)
 - [How to Generate GIFs From Videos on macOS](https://medium.com/@sagunraj/how-to-generate-gifs-from-videos-on-macos-b3780d2ef5c)
 - [How to Send Push Notifications to the iOS Simulator](https://betterprogramming.pub/how-to-send-push-notifications-to-the-ios-simulator-2988092ba931)
 - [Writing Your First Widget for iOS](https://levelup.gitconnected.com/writing-your-first-widget-for-ios-e1e8acf0079)
