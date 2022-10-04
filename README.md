@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 - [A Not-So-Deep Introduction to Deep Learning](https://medium.com/@sagunraj/a-not-so-deep-introduction-to-deep-learning-6a53da637262)
 - [How to Generate GIFs From Videos on macOS](https://medium.com/@sagunraj/how-to-generate-gifs-from-videos-on-macos-b3780d2ef5c)
 - [How to Send Push Notifications to the iOS Simulator](https://betterprogramming.pub/how-to-send-push-notifications-to-the-ios-simulator-2988092ba931)
+- [How to Import a Swift Package Into a Playground](https://sagunraj.medium.com/import-a-swift-package-into-a-playground-1bb650e196b0)
 - [Writing Your First Widget for iOS](https://levelup.gitconnected.com/writing-your-first-widget-for-ios-e1e8acf0079)
 - [Working With SwiftUI Lists Features for iOS 15](https://betterprogramming.pub/swiftui-lists-after-wwdc21-a8e5184e23b3)
 - [A Guide to Swift Optionals](https://betterprogramming.pub/befriending-swift-optionals-part-1-149aa5b91301)
@@ -61,6 +62,7 @@ Here are some ideas to get you started:
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagunraj&show_icons=true&locale=en" alt="sagunraj" /></p>
-
+### Holopin Board
 [![@sagunraj's Holopin board](https://holopin.io/api/user/board?user=sagunraj)](https://holopin.io/@sagunraj)
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagunraj&show_icons=true&locale=en" alt="sagunraj" /></p>
