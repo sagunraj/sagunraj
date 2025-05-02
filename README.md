@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 📝 &nbsp; I regularly write articles on [Medium](https://sagunraj.medium.com).
 
-- 💬 &nbsp; Ask me about **Blogging, Swift (iOS), PHP (Laravel) and JavaScript (React)**.
+<!-- - 💬 &nbsp; Ask me about **Blogging, Swift (iOS), PHP (Laravel) and JavaScript (React)**. -->
 
 - 📫 &nbsp; Reach me at **sagoonraj@gmail.com**.
 
@@ -47,6 +47,7 @@ Here are some ideas to get you started:
 <a href="https://sagunraj.medium.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="sagun_raj_lage_medium" height="30" width="40" /></a>
 </p>
 
+<!--
 ### Languages and Tools
 <p>
 <a href="https://swift.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
@@ -58,6 +59,7 @@ Here are some ideas to get you started:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="laravel" width="40" height="40"/> </a> 
 <a href="https://www.reactjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="laravel" width="40" height="40"/> </a> 
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+-->
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a>
 </p>
